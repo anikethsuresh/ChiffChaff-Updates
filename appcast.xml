@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
+    <item>
+      <title>Version 0.0.14</title>
+      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.14</sparkle:releaseNotesLink>
+      <pubDate>Sat, 23 Aug 2025 23:15:01 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.14.dmg"
+                 sparkle:version="61"
+                 sparkle:shortVersionString="0.0.14"
+                 sparkle:edSignature="sparkle:edSignature=pE/XPAaV/Gai6nkHDuxogg9xOOoeX/HTC/HCnHiQk5w1hgLEC3Rk4y2Jp15jpSJM9Cc3AjG2OSeeOkMXUeEtBw== length=36205184"
+                 length="36205184"
+                 type="application/octet-stream" />
+    </item>
     <title>ChiffChaff Updates</title>
     <link>https://updates.chiffchaff.ai/appcast.xml</link>
   </channel>
