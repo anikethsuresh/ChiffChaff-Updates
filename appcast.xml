@@ -4,6 +4,17 @@
     <item>
       <title>Version 0.0.14</title>
       <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.14</sparkle:releaseNotesLink>
+      <pubDate>Sat, 23 Aug 2025 23:31:05 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.14.dmg"
+                 sparkle:version="63"
+                 sparkle:shortVersionString="0.0.14"
+                 sparkle:edSignature="sparkle:edSignature=xwxTZq31e/PQURN6Z1E5hqMAWslk3wx+Me9u7JwKNa456uqPZjlweGx0Yf7MHVs4tmzdLZfXM4eT1dDL2GAcDw== length=37145158"
+                 length="37145158"
+                 type="application/octet-stream" />
+    </item>
+    <item>
+      <title>Version 0.0.14</title>
+      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.14</sparkle:releaseNotesLink>
       <pubDate>Sat, 23 Aug 2025 23:15:01 +0000</pubDate>
       <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.14.dmg"
                  sparkle:version="61"
