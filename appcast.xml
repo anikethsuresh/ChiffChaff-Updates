@@ -2,6 +2,17 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.19</title>
+      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.19</sparkle:releaseNotesLink>
+      <pubDate>Thu, 11 Sep 2025 00:32:59 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.19.dmg"
+                 sparkle:version="74"
+                 sparkle:shortVersionString="0.0.19"
+                 sparkle:edSignature="P6he8DnnMdaFn0uY6tllZNBzQeoldcAFp1syzqE5Q8LZAntezf57h6ZiudPLtazf3aWBMmjNrKH/eyRAqk5OBQ=="
+                 length="6549465"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.18</title>
       <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.18</sparkle:releaseNotesLink>
       <pubDate>Thu, 11 Sep 2025 00:16:26 +0000</pubDate>
