@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.37</title>
+      <description>
+        <![CDATA[ 🔈Add Audio Input picker with live meter ]]>
+      </description>
+      <pubDate>Tue, 14 Oct 2025 22:10:47 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.37.dmg"
+                 sparkle:version="93"
+                 sparkle:shortVersionString="0.0.37"
+                 sparkle:edSignature="HMULcxhLDz8X6WTSy/UzZS36emTnzk5JRpnoAMn9auPsSEGGG/Hvr7Sq+31IsWYE9TiJ3wqopxazfpjkidkPCg=="
+                 length="5911070"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.36</title>
       <description>
         <![CDATA[ The models section now uses quantized models, meaning smaller sized models with ~2x the speed! Added a button to open up the folder containining models/recordings in the settings. ]]>
