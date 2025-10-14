@@ -2,6 +2,20 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.36</title>
+      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.36</sparkle:releaseNotesLink>
+      <description>
+        <![CDATA[ The models section now uses quantized models, meaning smaller sized models with ~2x the speed! Added a button to open up the folder containining models/recordings in the settings. ]]>
+      </description>
+      <pubDate>Tue, 14 Oct 2025 20:16:28 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.36.dmg"
+                 sparkle:version="92"
+                 sparkle:shortVersionString="0.0.36"
+                 sparkle:edSignature="4eYUJW8RycqTXZMAkjZwX1W6rx7x6kPX3n3oEwfhv8qJzwiY2VeHNY4eNerYpLpq6izscJTmatxJiwAck+spBw=="
+                 length="5828863"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.35</title>
       <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.35</sparkle:releaseNotesLink>
       <pubDate>Mon, 29 Sep 2025 03:53:57 +0000</pubDate>
