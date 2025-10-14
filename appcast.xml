@@ -3,10 +3,10 @@
   <channel>
     <item>
       <title>Version 0.0.36</title>
-      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.36</sparkle:releaseNotesLink>
       <description>
         <![CDATA[ The models section now uses quantized models, meaning smaller sized models with ~2x the speed! Added a button to open up the folder containining models/recordings in the settings. ]]>
       </description>
+      <sparkle:releaseNotesLink>https://github.com/anikethsuresh/ChiffChaff/releases/tag/v0.0.36</sparkle:releaseNotesLink>
       <pubDate>Tue, 14 Oct 2025 20:16:28 +0000</pubDate>
       <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.36.dmg"
                  sparkle:version="92"
