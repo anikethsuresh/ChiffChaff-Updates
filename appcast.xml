@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.39</title>
+      <description>
+        <![CDATA[ ✨UX overhaul✨ ]]>
+      </description>
+      <pubDate>Sun, 02 Nov 2025 15:48:03 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.39.dmg"
+                 sparkle:version="95"
+                 sparkle:shortVersionString="0.0.39"
+                 sparkle:edSignature="TZld7Jn7dUmmRwOF/ahagZQ/cArg1x/V1lh4AQXEKBq4w3NT9PYFgP1zHJPyeGQp7ZyK2N0aiy5Ut9woC9JYAg=="
+                 length="7280107"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.38</title>
       <description>
         <![CDATA[ 🧠 LLM support through Ollama is here!💬 Pipe your transcripts into a locally running model today—with OpenAI and Anthropic keys coming soon. ]]>
