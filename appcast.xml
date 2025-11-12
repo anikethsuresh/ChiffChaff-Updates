@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.43</title>
+      <description>
+        <![CDATA[ implement default smart flow creation in onboarding and enhance settings view with improved layout and accessibility features ]]>
+      </description>
+      <pubDate>Wed, 12 Nov 2025 14:59:11 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.43.dmg"
+                 sparkle:version="99"
+                 sparkle:shortVersionString="0.0.43"
+                 sparkle:edSignature="bBeNP1SlsL1XbMHgYt11VNpadQHx6Pvb2mLbZZlxi4LrXLm32geEM0g5JzW63wBHqKGo2XhlMsjO9s2q7800Dw=="
+                 length="7325626"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.42</title>
       <description>
         <![CDATA[ Revamped the onboarding flow to make it simpler/easier to use ]]>
