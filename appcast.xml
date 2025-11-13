@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.44</title>
+      <description>
+        <![CDATA[ Improved overlay buffering ]]>
+      </description>
+      <pubDate>Thu, 13 Nov 2025 05:34:07 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.44.dmg"
+                 sparkle:version="100"
+                 sparkle:shortVersionString="0.0.44"
+                 sparkle:edSignature="f84cdC4De5PIVIascjMQi1Jm8JWQqCYQCyAWi31UFgJwbIfT67g3ndUMw4/KpZZSMob9RNpnTFZ9nNauBP01DQ=="
+                 length="7332782"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.43</title>
       <description>
         <![CDATA[ implement default smart flow creation in onboarding and enhance settings view with improved layout and accessibility features ]]>
