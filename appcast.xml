@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.47</title>
+      <description>
+        <![CDATA[ fix: blinking recording overlay ]]>
+      </description>
+      <pubDate>Thu, 13 Nov 2025 06:13:34 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.47.dmg"
+                 sparkle:version="103"
+                 sparkle:shortVersionString="0.0.47"
+                 sparkle:edSignature="ZrEsXzuiCzD1hoqy6P1kv6FiSq7Di2339rIMRZJ1xl57vm/EOLj3rB9lTBddASpLhwYB2pQrFpy0BXGjH/+PCA=="
+                 length="7318422"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.46</title>
       <description>
         <![CDATA[ downloading a model now refreshes the page immediately ]]>
