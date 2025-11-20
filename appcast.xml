@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.48</title>
+      <description>
+        <![CDATA[ refactor: update recording logic to improve overlay handling and adjust audio sample rate ]]>
+      </description>
+      <pubDate>Thu, 20 Nov 2025 05:26:34 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.48.dmg"
+                 sparkle:version="104"
+                 sparkle:shortVersionString="0.0.48"
+                 sparkle:edSignature="9eYYQHM+5kBKWjDw0kqWTANnDDJR0f9nPHEKdpfsj4CX4VixS4KkYDG/RqeewfVIfS9oTi2Di7W5ot+TkyhpBA=="
+                 length="7301764"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.47</title>
       <description>
         <![CDATA[ fix: blinking recording overlay ]]>
