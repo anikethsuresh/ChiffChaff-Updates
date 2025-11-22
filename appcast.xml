@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.49</title>
+      <description>
+        <![CDATA[ add editable server URL functionality for ollama ]]>
+      </description>
+      <pubDate>Sat, 22 Nov 2025 09:58:36 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.49.dmg"
+                 sparkle:version="105"
+                 sparkle:shortVersionString="0.0.49"
+                 sparkle:edSignature="JGvct6auzZGYrnM6rw3ZNIW7WoH4T7BbhbBcaPOpXYxIWFHrhiWkgkkrKb7VjZ3zDAJEwr7VcFgdkSnz1MB9CA=="
+                 length="7358396"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.48</title>
       <description>
         <![CDATA[ refactor: update recording logic to improve overlay handling and adjust audio sample rate ]]>
