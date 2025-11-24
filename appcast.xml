@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.50</title>
+      <description>
+        <![CDATA[ 🎙️ Enhanced transcription with language code support, automatic language detection, and translation options. 🔒 Fixed critical race condition in recording persistence that was causing recordings to be lost during rapid consecutive recordings. ✨ Improved error handling and state management throughout the transcription pipeline. ]]>
+      </description>
+      <pubDate>Mon, 24 Nov 2025 15:48:03 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.50.dmg"
+                 sparkle:version="106"
+                 sparkle:shortVersionString="0.0.50"
+                 sparkle:edSignature="Cxx4tGiDSEuZumNmUnCOv1rBb9Oi1R7DqOZXFeZPKr50x4REHp0WdmNQ3r275TTFo7Nl/q+6/bcBvOGv2Xg0Dw=="
+                 length="7400360"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.49</title>
       <description>
         <![CDATA[ add editable server URL functionality for ollama ]]>
