@@ -3,23 +3,12 @@
   <channel>
     <item>
       <title>Version 0.0.51</title>
-      <description>
-        <![CDATA[ 🤖 Smarter AI Model Support
-
-You can now use OpenAI models directly in the app! Easily add your API key and see transparent model pricing before you pick one.
-
-🎨 Refreshed Settings Experience
-
-The LLM settings screen has been completely redesigned with cleaner layouts and dedicated views for each provider—making it easier to compare and choose models.
-
-✨ Improved Smart Flows
-
-System prompts now support multi-line editing, and the model picker works seamlessly across different providers.
-
-📊 Better Recording Details
-
-Recordings now show provider-specific metadata only when relevant, keeping the interface clean and informative. ]]>
-      </description>
+      <description><![CDATA[
+🤖 Smarter AI Model Support – You can now use OpenAI models directly in the app! Easily add your API key and see transparent model pricing before you pick one.<br><br>
+🎨 Refreshed Settings Experience – The LLM settings screen has been completely redesigned with cleaner layouts and dedicated views for each provider—making it easier to compare and choose models.<br><br>
+✨ Improved Smart Flows – System prompts now support multi-line editing, and the model picker works seamlessly across different providers.<br><br>
+📊 Better Recording Details – Recordings now show provider-specific metadata only when relevant, keeping the interface clean and informative.
+]]></description>
       <pubDate>Fri, 28 Nov 2025 16:38:41 +0000</pubDate>
       <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.51.dmg"
                  sparkle:version="107"
