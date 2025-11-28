@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.51</title>
+      <description>
+        <![CDATA[ 🤖 Smarter AI Model Support ]]>
+      </description>
+      <pubDate>Fri, 28 Nov 2025 16:38:41 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.51.dmg"
+                 sparkle:version="107"
+                 sparkle:shortVersionString="0.0.51"
+                 sparkle:edSignature="+CbndO5P1sdvoycJlNFNjgd5ewlSiYoM+IsAGLdyP0IgtzazqZGo65giVk3PN1MWthDBxS0x5yI5gTMDfAtyCw=="
+                 length="9261808"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.50</title>
       <description>
         <![CDATA[ 🎙️ Enhanced transcription with language code support, automatic language detection, and translation options. 🔒 Fixed critical race condition in recording persistence that was causing recordings to be lost during rapid consecutive recordings. ✨ Improved error handling and state management throughout the transcription pipeline. ]]>
