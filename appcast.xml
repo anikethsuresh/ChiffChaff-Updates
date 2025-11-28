@@ -2,6 +2,28 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.52</title>
+      <description>
+        <![CDATA[ Improved UI and fixed some bugs
+
+&lt;p&gt;&lt;strong&gt;🔧 Improved Data Persistence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Smart flows and user settings now persist reliably across app updates, stored securely in your Documents folder alongside recordings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;✨ Streamlined Model Management&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulling new Ollama models is now faster and simpler with an inline input field—no more full-page dialogs interrupting your workflow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🎯 Cleaner User Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Removed unnecessary alerts and improved the overall interface flow, letting you focus on what matters without interruptions.&lt;/p&gt; ]]>
+      </description>
+      <pubDate>Fri, 28 Nov 2025 16:59:31 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.52.dmg"
+                 sparkle:version="108"
+                 sparkle:shortVersionString="0.0.52"
+                 sparkle:edSignature="8lmAE8XCLPG2fU2IiVGRnQb6DXQFDA/cGN8LfPVW/+LeIbALgG0bqHUrUtAX+9g4zyXEYk8wgNQw+qN+MbcLCA=="
+                 length="9253373"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.51</title>
       <description><![CDATA[
 🤖 Smarter AI Model Support – You can now use OpenAI models directly in the app! Easily add your API key and see transparent model pricing before you pick one.<br><br>
