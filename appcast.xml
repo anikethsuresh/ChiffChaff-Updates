@@ -2,6 +2,24 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.55</title>
+      <description>
+        <![CDATA[ Improve error handling for openai api calls
+
+&lt;p&gt;&lt;strong&gt;More Reliable LLM Feedback&lt;/strong&gt; – Recording cards and details now clearly show when AI post-processing succeeds or fails, including helpful status/context when something goes wrong.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Guided Smart Flow Setup&lt;/strong&gt; – If a transcription model is missing, the app now alerts you and leads you straight to the Smart Flow editor so you can fix it before recording.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cleaner Interface Details&lt;/strong&gt; – The sidebar icon renders crisply without odd vibrancy, and the audio input picker focuses on the options that matter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Smarter Mic Selection&lt;/strong&gt; – Recorder automatically remembers your preferred device, falls back to the best built-in mic, and restores your original setup once you finish capturing.&lt;/p&gt; ]]>
+      </description>
+      <pubDate>Sat, 29 Nov 2025 17:32:26 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.55.dmg"
+                 sparkle:version="111"
+                 sparkle:shortVersionString="0.0.55"
+                 sparkle:edSignature="xJoMrFQqCqdJHMET8vRUzyjEYS+D5GKJhplD4gt5zfntRwbjLB84+auA2N5aZ4sOrU4EUyotCCxhA2LusQ/6Cg=="
+                 length="9439830"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.54</title>
       <description>
         <![CDATA[ Fixed recording overlay blinking issue
