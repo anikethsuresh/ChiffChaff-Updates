@@ -2,6 +2,28 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.53</title>
+      <description>
+        <![CDATA[ Fixed release notes formatting
+
+&lt;p&gt;&lt;strong&gt;🔧 Improved Data Persistence&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Smart flows and user settings now persist reliably across app updates, stored securely in your Documents folder alongside recordings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;✨ Streamlined Model Management&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pulling new Ollama models is now faster and simpler with an inline input field—no more full-page dialogs interrupting your workflow.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🎯 Cleaner User Experience&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Removed unnecessary alerts and improved the overall interface flow, letting you focus on what matters without interruptions.&lt;/p&gt; ]]>
+      </description>
+      <pubDate>Sat, 29 Nov 2025 14:14:21 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.53.dmg"
+                 sparkle:version="109"
+                 sparkle:shortVersionString="0.0.53"
+                 sparkle:edSignature="8WLQb5IfOahc0apbxik9yksKuLkJZUquXeFRYjNEXT8l5QWbax6APbln9eH0ZBTHeNdjtklm9U8Qrj+MgL8pCg=="
+                 length="9274347"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.52</title>
       <description>
         <![CDATA[ Improved UI and fixed some bugs
