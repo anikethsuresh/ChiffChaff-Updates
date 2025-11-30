@@ -4,13 +4,16 @@
     <item>
       <title>Version 0.0.55</title>
       <description>
-        <![CDATA[ Improve error handling for openai api calls
+<![CDATA[
+<p><strong>More Reliable LLM Feedback</strong> — Recording cards and details now clearly show when AI post-processing succeeds or fails, with helpful context when something goes wrong.</p>
 
-&lt;p&gt;&lt;strong&gt;More Reliable LLM Feedback&lt;/strong&gt; – Recording cards and details now clearly show when AI post-processing succeeds or fails, including helpful status/context when something goes wrong.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Guided Smart Flow Setup&lt;/strong&gt; – If a transcription model is missing, the app now alerts you and leads you straight to the Smart Flow editor so you can fix it before recording.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Cleaner Interface Details&lt;/strong&gt; – The sidebar icon renders crisply without odd vibrancy, and the audio input picker focuses on the options that matter.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Smarter Mic Selection&lt;/strong&gt; – Recorder automatically remembers your preferred device, falls back to the best built-in mic, and restores your original setup once you finish capturing.&lt;/p&gt; ]]>
-      </description>
+<p><strong>Guided Smart Flow Setup</strong> — If a transcription model is missing, the app now alerts you and brings you directly to the Smart Flow editor so you can fix it before recording.</p>
+
+<p><strong>Cleaner Interface Details</strong> — Improved sidebar icon rendering, removed odd vibrancy issues, and simplified the audio input picker for clearer choices.</p>
+
+<p><strong>Smarter Mic Selection</strong> — Recorder now remembers your preferred device, intelligently falls back to the best built-in mic, and restores your original setup when capturing is complete.</p>
+]]>
+</description>
       <pubDate>Sat, 29 Nov 2025 17:32:26 +0000</pubDate>
       <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.55.dmg"
                  sparkle:version="111"
