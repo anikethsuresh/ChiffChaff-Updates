@@ -2,6 +2,23 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.57</title>
+      <description>
+        <![CDATA[ Anthropic support is here! 🚀
+
+<p><strong>Anthropic Provider Arrives</strong> Use Claude models directly inside ChiffChaff, complete with a dedicated settings pane and seamless switching between providers.</p>
+<p><strong>Smoother API Key Management</strong> Save, update, and retrieve your Anthropic key from the app without juggling external tools, making onboarding faster.</p>
+<p><strong>More Reliable Connections</strong> Behind-the-scenes refactors harden session handling and error recovery so listing models and starting chats stay dependable.</p> ]]>
+      </description>
+      <pubDate>Sun, 30 Nov 2025 22:52:49 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.57.dmg"
+                 sparkle:version="113"
+                 sparkle:shortVersionString="0.0.57"
+                 sparkle:edSignature="f6yLBgTssF2yNjZ5Kks4tYBhmvjywxf9+oUnPNiu2Di/oZAe52XWGVX17SA5lmjHQpGYUYuvSzg7Rn9JWT+nBg=="
+                 length="9982817"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.55</title>
       <description>
 <![CDATA[
