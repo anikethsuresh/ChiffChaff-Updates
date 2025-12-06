@@ -2,6 +2,26 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.60</title>
+      <description>
+        <![CDATA[ 🚀 OpenRouter integration is live!
+
+<p><strong>OpenRouter Integration</strong></p>
+<p>You can now use OpenRouter to access hundreds of AI models from a single provider! Easily enable or disable specific models in settings to keep your Smart Flow picker clean and organized.</p>
+<p><strong>Better Error Messages</strong></p>
+<p>When LLM requests take too long or fail, you'll now see clear, helpful error messages instead of technical jargon—making it easier to understand what went wrong.</p>
+<p><strong>Improved Recording Overlay</strong></p>
+<p>The recording overlay now provides clearer visual feedback during LLM processing, with consistent styling that makes it easier to track your recording's progress.</p> ]]>
+      </description>
+      <pubDate>Sat, 06 Dec 2025 23:36:56 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.60.dmg"
+                 sparkle:version="116"
+                 sparkle:shortVersionString="0.0.60"
+                 sparkle:edSignature="iXNWlSjHkdrfDWi8zgYlGr2rL3ZuUhWne9EkgXIjnm3dsPEXi3NsHUA8TBMMwOHEeBYamrYwxCeLdXk3NEH4Dw=="
+                 length="10214019"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.59</title>
       <description>
         <![CDATA[ Smoother App Startup
