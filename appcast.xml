@@ -2,6 +2,21 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.59</title>
+      <description>
+        <![CDATA[ Smoother App Startup
+
+<br><br>The app now starts faster and won't prompt you for keychain access until you actually open the LLM settings tab. No more interruptions when launching the app!<br><br>Improved File Management<br><br>All your recordings, models, and vocabulary files are now consistently saved in the correct location, making them easier to find and manage.<br><br>Enhanced Provider Experience<br><br>API keys for OpenAI and Anthropic are only accessed when you need them, providing a cleaner and more responsive experience when switching between providers. ]]>
+      </description>
+      <pubDate>Sat, 06 Dec 2025 22:26:58 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.59.dmg"
+                 sparkle:version="115"
+                 sparkle:shortVersionString="0.0.59"
+                 sparkle:edSignature="V412E4s+ZJmo4a02RgVY5y5MlViejdlVbKoSlBQRnl6L8w19/Z6yFGlhlqwiRE55xOfDHdUiPeJsknL/7Js/Dg=="
+                 length="10003534"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.58</title>
       <description>
         <![CDATA[ Improved and fixed file location bug causing files to be places in the wrong directory ]]>
