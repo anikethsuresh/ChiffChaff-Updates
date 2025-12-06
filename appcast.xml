@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.58</title>
+      <description>
+        <![CDATA[ Improved and fixed file location bug causing files to be places in the wrong directory ]]>
+      </description>
+      <pubDate>Sat, 06 Dec 2025 15:40:33 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.58.dmg"
+                 sparkle:version="114"
+                 sparkle:shortVersionString="0.0.58"
+                 sparkle:edSignature="M56qYu2qyIub5V061FW9/V1vAT8MLuibHFjfTMyjkruttlokG4welygXOIcWSYrG/LP1wu+NA8hPqIytk0AsBg=="
+                 length="9994886"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.57</title>
       <description>
         <![CDATA[ Anthropic support is here! 🚀
