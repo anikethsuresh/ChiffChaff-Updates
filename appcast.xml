@@ -2,6 +2,19 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <item>
+      <title>Version 0.0.61</title>
+      <description>
+        <![CDATA[ Implement default smart flow creation in onboarding process. Added logic to create a default smart flow immediately after model download and upon restarting onboarding if the model already exists. Updated comments for clarity on the flow creation process. ]]>
+      </description>
+      <pubDate>Tue, 06 Jan 2026 15:48:53 +0000</pubDate>
+      <enclosure url="https://updates.chiffchaff.ai/ChiffChaff-0.0.61.dmg"
+                 sparkle:version="117"
+                 sparkle:shortVersionString="0.0.61"
+                 sparkle:edSignature="M5wVC18/inHL7juRcuMPMsizHln7xjySNEIv1sweSxXSsP1MD9EWnQ6HNpQd+7GpK/yXbOA1VFaYIRxsuK8gBw=="
+                 length="10208635"
+                 type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 0.0.60</title>
       <description>
         <![CDATA[ 🚀 OpenRouter integration is live!
